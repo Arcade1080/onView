@@ -2,7 +2,6 @@
 |* by Arcade Hero
 |* version: 1.0
 |* licensed under the MIT License
-|* Have fun.
 |* 
  */
 
